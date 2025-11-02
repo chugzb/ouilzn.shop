@@ -1,0 +1,966 @@
+{
+  "Metadata": {
+    "name": "OUILZN",
+    "title": "OUILZN - 高端牛仔衬衫 | 日本面料遇见意大利工艺",
+    "description": "OUILZN 精选日本冈山丹宁面料，融合意大利传统裁剪工艺，打造可持续的高端牛仔衬衫。为现代都市人群提供经典永恒的品质之选。"
+  },
+  "Common": {
+    "login": "登录",
+    "logout": "退出",
+    "signUp": "注册",
+    "language": "切换语言",
+    "mode": {
+      "label": "切换模式",
+      "light": "浅色模式",
+      "dark": "深色模式",
+      "system": "跟随系统"
+    },
+    "theme": {
+      "label": "切换主题",
+      "default": "默认",
+      "blue": "蓝色",
+      "green": "绿色",
+      "amber": "橙色",
+      "neutral": "中性"
+    },
+    "copy": "复制",
+    "save": "保存",
+    "saving": "保存中...",
+    "loading": "加载中...",
+    "cancel": "取消",
+    "logoutFailed": "退出失败"
+  },
+  "PricingPage": {
+    "title": "价格",
+    "description": "选择最适合您的付费计划",
+    "subtitle": "选择最适合您的付费计划",
+    "monthly": "月付",
+    "yearly": "年付",
+    "PricingCard": {
+      "freePrice": "$0",
+      "perMonth": "/月",
+      "perYear": "/年",
+      "popular": "热门",
+      "currentPlan": "当前方案",
+      "yourCurrentPlan": "您的当前方案",
+      "getStartedForFree": "开始免费使用",
+      "getLifetimeAccess": "开启终身会员",
+      "getStarted": "开始免费试用",
+      "notAvailable": "不可用",
+      "daysTrial": "{days} 天试用期"
+    },
+    "CheckoutButton": {
+      "loading": "加载中...",
+      "checkoutFailed": "打开结账页面失败"
+    }
+  },
+  "PricePlans": {
+    "free": {
+      "name": "浏览探索",
+      "description": "完美发现您的牛仔风格",
+      "features": {
+        "feature-1": "浏览完整产品目录",
+        "feature-2": "访问尺码指南",
+        "feature-3": "标准配送服务",
+        "feature-4": "30天退货政策",
+        "feature-5": "社区支持服务"
+      },
+      "limits": {
+        "limit-1": "无会员折扣",
+        "limit-2": "无快速配送",
+        "limit-3": "无定制改裁服务"
+      }
+    },
+    "pro": {
+      "name": "牛仔爱好者",
+      "description": "为热爱优质牛仔的您而设",
+      "features": {
+        "feature-1": "全年所有购买享8折优惠",
+        "feature-2": "访问完整系列（经典、修身、宽松版型）",
+        "feature-3": "所有订单免费快速配送",
+        "feature-4": "新品提前购买权",
+        "feature-5": "优先客户支持",
+        "feature-6": "专属会员活动",
+        "feature-7": "批量订购折扣"
+      },
+      "limits": {
+        "limit-1": "无定制改裁服务",
+        "limit-2": "无终身折扣"
+      }
+    },
+    "lifetime": {
+      "name": "终身会员",
+      "description": "一次付费，终身受益",
+      "features": {
+        "feature-1": "包含所有爱好者功能",
+        "feature-2": "终身所有购买享7折优惠",
+        "feature-3": "批量订购最高享5折优惠",
+        "feature-4": "定制改裁服务",
+        "feature-5": "专属客户经理",
+        "feature-6": "终身免费裤脚修改与维修",
+        "feature-7": "VIP客户服务",
+        "feature-8": "终身享有所有未来权益"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "抱歉，您正在寻找的页面不存在",
+    "backToHome": "返回首页"
+  },
+  "ErrorPage": {
+    "title": "哎呀！出错了！",
+    "tryAgain": "重试",
+    "backToHome": "返回首页"
+  },
+  "AboutPage": {
+    "title": "关于我们",
+    "description": "探索 OUILZN 的品牌故事：日本精工遇见意大利艺术，我们打造融合可持续理念与永恒风格的高端牛仔衬衫。",
+    "authorName": "OUILZN",
+    "authorBio": "高端牛仔衬衫匠人",
+    "introduction": "✨ 欢迎来到 OUILZN。我们相信，卓越的牛仔衬衫不仅是面料，更是对品质与可持续的承诺。源于对正宗工艺的热爱，我们从日本冈山采购最优质的丹宁面料，结合意大利传统裁剪技艺。每一件衬衫都经过精心制作，旨在陪伴您一生。从休闲周末到精致场合，OUILZN 衬衫为注重风格与品质的现代人而设计。",
+    "talkWithMe": "联系我们",
+    "followMe": "关注我们"
+  },
+  "ChangelogPage": {
+    "title": "更新日志",
+    "description": "查看我们产品的最新动态",
+    "subtitle": "查看我们产品的最新动态"
+  },
+  "ContactPage": {
+    "title": "产品咨询",
+    "description": "对 OUILZN 牛仔衬衫有任何疑问？我们的团队随时为您服务。",
+    "subtitle": "分享您的需求，让 OUILZN 为您提供专业建议",
+    "form": {
+      "title": "提交咨询需求",
+      "description": "请详细描述您的产品需求，包括尺码、版型、颜色等具体要求",
+      "name": "姓名",
+      "email": "邮箱",
+      "videoType": "产品类型",
+      "duration": "尺码范围",
+      "style": "版型风格",
+      "purpose": "购买目的",
+      "message": "详细需求描述",
+      "submit": "提交请求",
+      "submitting": "提交中...",
+      "success": "咨询请求提交成功",
+      "fail": "请求提交失败",
+      "nameMinLength": "姓名必须至少包含 3 个字符",
+      "nameMaxLength": "姓名必须不超过 30 个字符",
+      "emailValidation": "请输入有效的邮箱地址",
+      "messageMinLength": "需求描述必须至少包含 10 个字符",
+      "messageMaxLength": "需求描述必须不超过 500 个字符",
+      "videoTypeOptions": {
+        "promotional": "牛仔衬衫",
+        "educational": "牛仔夹克",
+        "entertainment": "牛仔外套",
+        "corporate": "牛仔马甲",
+        "social": "定制款",
+        "other": "其他"
+      },
+      "durationOptions": {
+        "short": "S码 (腰围26-28)",
+        "medium": "M码 (腰围29-31)",
+        "long": "L码 (腰围32-34)",
+        "custom": "XL码及以上"
+      },
+      "styleOptions": {
+        "realistic": "经典直筒",
+        "animated": "修身版型",
+        "minimalist": "宽松版型",
+        "cinematic": "紧身版型",
+        "modern": "喇叭裤型",
+        "vintage": "工装版型"
+      },
+      "purposeOptions": {
+        "marketing": "日常穿着",
+        "training": "商务场合",
+        "presentation": "休闲娱乐",
+        "social": "户外活动",
+        "personal": "特殊场合",
+        "commercial": "其他用途"
+      }
+    }
+  },
+  "WaitlistPage": {
+    "title": "等待队列",
+    "description": "加入等待队列，及时获取最新消息和更新",
+    "subtitle": "加入等待队列，及时获取最新消息和更新",
+    "form": {
+      "title": "加入等待队列",
+      "description": "我们将在产品发布时及时通知您",
+      "email": "邮箱",
+      "subscribe": "加入等待队列",
+      "subscribing": "加入等待队列中...",
+      "success": "加入等待队列成功",
+      "fail": "加入等待队列失败",
+      "emailValidation": "请输入有效的邮箱地址"
+    }
+  },
+  "Newsletter": {
+    "title": "加入 OUILZI 时尚圈",
+    "subtitle": "与全球8500+时尚精英一起，探索法式优雅的生活方式",
+    "description": "订阅我们的专属资讯，第一时间获取设计师新品、时尚穿搭灵感、VIP专属活动邀请和可持续时尚前沿资讯",
+    "form": {
+      "email": "邮箱地址",
+      "subscribe": "立即订阅",
+      "subscribing": "订阅中...",
+      "success": "订阅成功！欢迎加入我们",
+      "fail": "订阅失败，请重试",
+      "emailValidation": "请输入有效的邮箱地址"
+    }
+  },
+  "AuthPage": {
+    "login": {
+      "title": "登录",
+      "welcomeBack": "欢迎回来",
+      "email": "邮箱",
+      "password": "密码",
+      "signIn": "登录",
+      "signUpHint": "没有账号？注册",
+      "forgotPassword": "忘记密码？",
+      "signInWithGoogle": "使用 Google 登录",
+      "signInWithGitHub": "使用 GitHub 登录",
+      "showPassword": "显示密码",
+      "hidePassword": "隐藏密码",
+      "or": "或以社媒账号登录",
+      "emailRequired": "请输入邮箱",
+      "passwordRequired": "请输入密码"
+    },
+    "register": {
+      "title": "注册",
+      "createAccount": "创建账号",
+      "name": "姓名",
+      "email": "邮箱",
+      "password": "密码",
+      "signUp": "注册",
+      "signInHint": "已经有账号？登录",
+      "checkEmail": "请检查您的邮箱",
+      "showPassword": "显示密码",
+      "hidePassword": "隐藏密码",
+      "nameRequired": "请输入姓名",
+      "emailRequired": "请输入邮箱",
+      "passwordRequired": "请输入密码",
+      "captchaInvalid": "验证码验证失败",
+      "captchaError": "验证码验证出错"
+    },
+    "forgotPassword": {
+      "title": "忘记密码",
+      "email": "邮箱",
+      "send": "发送重置密码链接",
+      "backToLogin": "返回登录",
+      "checkEmail": "请检查您的邮箱",
+      "emailRequired": "请输入邮箱"
+    },
+    "resetPassword": {
+      "title": "重置密码",
+      "password": "密码",
+      "reset": "重置密码",
+      "backToLogin": "返回登录",
+      "showPassword": "显示密码",
+      "hidePassword": "隐藏密码",
+      "minLength": "密码必须至少包含 8 个字符"
+    },
+    "error": {
+      "title": "哎呀！出错了！",
+      "tryAgain": "请重试",
+      "backToLogin": "返回登录",
+      "checkEmail": "请检查您的邮箱"
+    },
+    "common": {
+      "termsOfService": "服务条款",
+      "privacyPolicy": "隐私政策",
+      "byClickingContinue": "继续即表示您同意我们的 ",
+      "and": " 和 "
+    }
+  },
+  "BlogPage": {
+    "title": "博客",
+    "description": "来自我们的团队最新新闻和更新",
+    "subtitle": "来自我们的团队最新新闻和更新",
+    "author": "作者",
+    "categories": "分类",
+    "tableOfContents": "目录",
+    "readTime": "{minutes} 分钟阅读",
+    "all": "全部",
+    "noPostsFound": "没有找到文章",
+    "allPosts": "全部文章",
+    "morePosts": "更多文章"
+  },
+  "DocsPage": {
+    "toc": "目录",
+    "search": "搜索文档",
+    "lastUpdate": "最后更新于",
+    "searchNoResult": "没有结果",
+    "previousPage": "上一页",
+    "nextPage": "下一页",
+    "chooseLanguage": "选择语言",
+    "title": "OUILZI 文档",
+    "homepage": "首页",
+    "blog": "博客"
+  },
+  "Marketing": {
+    "navbar": {
+      "about": {
+        "title": "关于我们"
+      },
+      "faq": {
+        "title": "常见问题"
+      },
+      "contact": {
+        "title": "联系我们"
+      },
+      "pages": {
+        "title": "内置页面",
+        "items": {
+          "about": {
+            "title": "关于我们",
+            "description": "了解更多关于我们的公司、使命和价值观"
+          },
+          "contact": {
+            "title": "联系我们",
+            "description": "与我们的团队联系，以获取支持或咨询"
+          },
+          "waitlist": {
+            "title": "邮件列表",
+            "description": "加入我们的邮件列表，获取最新消息和更新"
+          },
+          "changelog": {
+            "title": "更新日志",
+            "description": "查看我们产品的更新历史，查看最新动态"
+          },
+          "roadmap": {
+            "title": "路线图",
+            "description": "探索我们的未来计划和即将推出的功能"
+          },
+          "cookiePolicy": {
+            "title": "Cookie 政策",
+            "description": "关于我们如何在网站上使用 Cookie 的信息"
+          },
+          "privacyPolicy": {
+            "title": "隐私政策",
+            "description": "关于我们将如何保护和处理您在网站上的数据"
+          },
+          "termsOfService": {
+            "title": "服务条款",
+            "description": "关于您与我们公司之间的法律协议和条款"
+          }
+        }
+      },
+      "blocks": {
+        "title": "内置组件",
+        "items": {
+          "magicui": {
+            "title": "MagicUI 组件"
+          },
+          "hero-section": {
+            "title": "Hero 组件"
+          },
+          "logo-cloud": {
+            "title": "Logo Cloud 组件"
+          },
+          "features": {
+            "title": "Features 组件"
+          },
+          "integrations": {
+            "title": "Integrations 组件"
+          },
+          "content": {
+            "title": "Content 组件"
+          },
+          "stats": {
+            "title": "Stats 组件"
+          },
+          "team": {
+            "title": "Team 组件"
+          },
+          "testimonials": {
+            "title": "Testimonials 组件"
+          },
+          "callToAction": {
+            "title": "Call to Action 组件"
+          },
+          "footer": {
+            "title": "Footer 组件"
+          },
+          "pricing": {
+            "title": "Pricing 组件"
+          },
+          "comparator": {
+            "title": "Comparator 组件"
+          },
+          "faqs": {
+            "title": "FAQs 组件"
+          },
+          "login": {
+            "title": "Login 组件"
+          },
+          "sign-up": {
+            "title": "Signup 组件"
+          },
+          "forgot-password": {
+            "title": "Forgot Password 组件"
+          },
+          "contact": {
+            "title": "Contact 组件"
+          }
+        }
+      }
+    },
+    "footer": {
+      "tagline": "OUILZN - 高端牛仔衬衫 | 日本面料 × 意大利工艺 × 可持续时尚",
+      "product": {
+        "title": "产品",
+        "items": {
+          "features": "功能特色",
+          "pricing": "价格",
+          "faq": "常见问题"
+        }
+      },
+      "resources": {
+        "title": "资源",
+        "items": {
+          "blog": "博客",
+          "docs": "文档",
+          "changelog": "更新日志",
+          "roadmap": "路线图"
+        }
+      },
+      "company": {
+        "title": "公司",
+        "items": {
+          "about": "关于我们",
+          "contact": "联系我们",
+          "waitlist": "邮件列表"
+        }
+      },
+      "legal": {
+        "title": "法律",
+        "items": {
+          "cookiePolicy": "Cookie政策",
+          "privacyPolicy": "隐私政策",
+          "termsOfService": "服务条款"
+        }
+      }
+    },
+    "avatar": {
+      "dashboard": "工作台",
+      "billing": "账单",
+      "settings": "设置"
+    }
+  },
+  "Dashboard": {
+    "dashboard": {
+      "title": "仪表盘"
+    },
+    "admin": {
+      "title": "系统管理",
+      "users": {
+        "title": "用户管理",
+        "fakeData": "注：只为演示功能，数据为假数据，封禁功能不可用",
+        "error": "获取用户失败",
+        "search": "搜索用户...",
+        "columns": {
+          "columns": "显示列",
+          "name": "姓名",
+          "email": "邮箱",
+          "role": "角色",
+          "createdAt": "创建时间",
+          "customerId": "客户ID",
+          "status": "状态",
+          "banReason": "封禁原因",
+          "banExpires": "封禁到期时间"
+        },
+        "noResults": "没有结果",
+        "firstPage": "第一页",
+        "lastPage": "最后一页",
+        "nextPage": "下一页",
+        "previousPage": "上一页",
+        "rowsPerPage": "每页行数",
+        "page": "页",
+        "loading": "加载中...",
+        "admin": "管理员",
+        "user": "用户",
+        "email": {
+          "verified": "邮箱已验证",
+          "unverified": "邮箱未验证"
+        },
+        "emailCopied": "邮箱已复制到剪贴板",
+        "banned": "账号被封禁",
+        "active": "账号正常",
+        "joined": "加入时间",
+        "updated": "更新时间",
+        "ban": {
+          "reason": "封禁原因",
+          "reasonPlaceholder": "请输入封禁该用户的原因",
+          "defaultReason": "垃圾信息",
+          "never": "永不解禁",
+          "expires": "封禁到期时间",
+          "selectDate": "选择日期",
+          "button": "封禁用户",
+          "success": "用户已被封禁",
+          "error": "封禁用户失败"
+        },
+        "unban": {
+          "button": "解除封禁",
+          "success": "用户已被解除封禁",
+          "error": "解除封禁失败"
+        },
+        "close": "关闭"
+      }
+    },
+    "settings": {
+      "title": "设置",
+      "profile": {
+        "title": "账户",
+        "description": "管理您的账户信息",
+        "avatar": {
+          "title": "头像",
+          "description": "点击上传按钮上传自定义头像",
+          "recommendation": "头像是可选的，但强烈推荐设置",
+          "uploading": "上传中...",
+          "uploadAvatar": "上传头像",
+          "success": "头像更新成功",
+          "fail": "更新头像失败"
+        },
+        "name": {
+          "title": "名字",
+          "description": "请输入您的名字",
+          "placeholder": "名字",
+          "minLength": "请至少使用 3 个字符",
+          "maxLength": "请最多使用 30 个字符",
+          "hint": "请使用 3-30 个字符",
+          "success": "名字更新成功",
+          "fail": "更新名字失败",
+          "saving": "保存中...",
+          "save": "保存"
+        }
+      },
+      "billing": {
+        "title": "账单",
+        "description": "管理您的订阅和账单信息",
+        "status": {
+          "active": "已激活",
+          "trial": "试用中",
+          "free": "免费版",
+          "lifetime": "终身版"
+        },
+        "interval": {
+          "month": "月",
+          "year": "年",
+          "oneTime": "一次性"
+        },
+        "currentPlan": {
+          "title": "当前方案",
+          "description": "您当前的方案详情",
+          "noPlan": "您没有激活的方案"
+        },
+        "CustomerPortalButton": {
+          "loading": "加载中...",
+          "createCustomerPortalFailed": "打开Stripe客户界面失败"
+        },
+        "price": "价格：",
+        "nextBillingDate": "下次账单日期：",
+        "trialEnds": "试用结束日期：",
+        "freePlanMessage": "您当前使用的是功能有限的免费方案",
+        "lifetimeMessage": "您拥有所有高级功能的终身使用权限",
+        "manageSubscription": "管理订阅和账单",
+        "manageBilling": "管理账单",
+        "upgradePlan": "升级方案",
+        "retry": "重试",
+        "errorMessage": "获取数据失败"
+      },
+      "notification": {
+        "title": "通知",
+        "description": "管理您的通知设置",
+        "newsletter": {
+          "title": "订阅",
+          "description": "管理您的邮件列表订阅偏好",
+          "label": "订阅邮件列表",
+          "hint": "您可以随时更改订阅偏好",
+          "emailRequired": "订阅邮件列表需要邮箱",
+          "subscribeSuccess": "成功订阅邮件列表",
+          "subscribeFail": "订阅邮件列表失败",
+          "unsubscribeSuccess": "成功取消订阅邮件列表",
+          "unsubscribeFail": "取消订阅邮件列表失败",
+          "error": "更新订阅时发生错误"
+        }
+      },
+      "security": {
+        "title": "安全",
+        "description": "管理您的安全设置",
+        "updatePassword": {
+          "title": "修改密码",
+          "description": "输入您的当前密码和新密码",
+          "currentPassword": "当前密码",
+          "currentRequired": "当前密码是必填项",
+          "newPassword": "新密码",
+          "newMinLength": "密码必须至少包含 8 个字符",
+          "hint": "请至少使用 8 个字符作为密码",
+          "showPassword": "显示密码",
+          "hidePassword": "隐藏密码",
+          "success": "密码更新成功",
+          "fail": "更新密码失败",
+          "saving": "保存中...",
+          "save": "保存"
+        },
+        "resetPassword": {
+          "title": "重置密码",
+          "description": "重置密码以启用邮箱登录",
+          "info": "重置密码将允许您除了社交登录方式外，还可以使用邮箱和密码登录，您将收到一封包含重置密码链接的电子邮件",
+          "button": "重置密码"
+        },
+        "deleteAccount": {
+          "title": "删除账号",
+          "description": "永久删除您的账号和所有内容",
+          "warning": "此操作是不可逆的，请谨慎操作",
+          "button": "删除账号",
+          "confirmTitle": "删除账号",
+          "confirmDescription": "您确定要删除您的账号吗？此操作无法撤销",
+          "confirm": "删除",
+          "cancel": "取消",
+          "deleting": "删除中...",
+          "success": "账号删除成功",
+          "fail": "删除账号失败"
+        }
+      }
+    },
+    "upgrade": {
+      "title": "升级",
+      "description": "升级到Pro以获取所有功能",
+      "button": "升级"
+    }
+  },
+  "Mail": {
+    "common": {
+      "team": "{name} 团队",
+      "copyright": "©️ {year} 版权所有。"
+    },
+    "verifyEmail": {
+      "title": "你好，{name}。",
+      "body": "请点击下面的链接验证您的邮箱地址。",
+      "confirmEmail": "确认邮箱",
+      "subject": "验证您的邮箱"
+    },
+    "forgotPassword": {
+      "title": "你好，{name}。",
+      "body": "请点击下面的链接重置您的密码。",
+      "resetPassword": "重置密码",
+      "subject": "重置您的密码"
+    },
+    "subscribeNewsletter": {
+      "body": "感谢您订阅我们的邮件列表，我们将为您提供最新的新闻和更新。",
+      "subject": "感谢您的订阅"
+    },
+    "contactMessage": {
+      "name": "姓名: {name}",
+      "email": "邮箱: {email}",
+      "message": "消息: {message}",
+      "subject": "来自网站的联系消息"
+    }
+  },
+  "HomePage": {
+    "title": "OUILZN - 高端牛仔衬衫 | 日本面料遇见意大利工艺",
+    "description": "OUILZN 精选日本冈山丹宁面料，融合意大利传统裁剪工艺，打造可持续的高端牛仔衬衫。为现代都市人群提供经典永恒的品质之选。",
+    "hero": {
+      "title": "经典牛仔衬衫，匠心打造完美",
+      "description": "OUILZN 将日本冈山顶级丹宁面料与意大利传统裁剪工艺完美结合。每一件衬衫都采用可持续工艺精心制作，旨在陪伴您一生。不只是一件衬衫——更是对品质与风格的承诺。",
+      "introduction": "探索 OUILZN",
+      "primary": "选购系列",
+      "secondary": "了解更多"
+    },
+    "trustIndicators": {
+      "easyToLearn": "冈山顶级丹宁",
+      "premiumTools": "意大利工艺",
+      "activeComm": "100% 可持续",
+      "stepByStep": "终身品质"
+    },
+    "howItWorks": {
+      "title": "购买流程",
+      "description": "从选择到配送，我们让您轻松找到完美的牛仔衬衫。",
+      "step1": {
+        "title": "选择风格",
+        "description": "浏览我们精心策划的高端牛仔衬衫系列。每一款设计都注重细节，经典永恒。"
+      },
+      "step2": {
+        "title": "专业咨询",
+        "description": "需要帮助？我们的风格顾问随时为您提供指导，帮助您找到最适合的尺码和款式。"
+      },
+      "step3": {
+        "title": "终身享用",
+        "description": "收到精美包装的衬衫。享受终身养护支持和经久耐用的可持续品质。"
+      }
+    },
+    "features": {
+      "title": "为什么选择 OUILZN",
+      "description": "我们将世界顶级面料与传统工艺相结合，打造经得起时间考验的牛仔衬衫。",
+      "feature1": {
+        "title": "日本顶级丹宁",
+        "description": "面料源自日本丹宁之都冈山。采用传统梭织机织造，打造独特质感和卓越耐久性，越穿越有味道。"
+      },
+      "feature2": {
+        "title": "意大利裁剪精髓",
+        "description": "每件衬衫都采用代代相传的意大利传统裁剪方法制作。精准剪裁、手工细节处理和严格品控，确保完美品质。"
+      },
+      "feature3": {
+        "title": "可持续环保",
+        "description": "使用环保染料、可持续生产方式，并提供终身养护服务。持久品质减少浪费，践行我们对地球的承诺。"
+      }
+    },
+    "showcase": {
+      "title": "精选系列展示",
+      "description": "探索 OUILZN 精心打造的牛仔服饰系列。每一件作品都融合了日本顶级面料与意大利传统工艺，展现经典与现代的完美结合。"
+    },
+    "useCases": {
+      "title": "适配多种场合的百搭风格",
+      "description": "从办公室到周末出游，OUILZN 牛仔衬衫轻松适应您的生活方式。",
+      "marketing": {
+        "title": "职场专业",
+        "description": "现代职场的完美选择。我们的精致牛仔衬衫与西装、休闲裤完美搭配，为传统正装衬衫提供时尚替代方案。"
+      },
+      "education": {
+        "title": "休闲随性",
+        "description": "周末必备。搭配T恤或单穿都适合轻松出行。高端丹宁面料为任何休闲造型增添正宗风格。"
+      },
+      "content": {
+        "title": "智能休闲",
+        "description": "晚餐、活动和社交聚会的理想之选。经典牛仔工艺完美平衡精致与休闲。"
+      }
+    },
+    "newsletter": {
+      "title": "加入 OUILZN 社区",
+      "description": "独家获取新品系列、穿搭技巧和特别优惠。加入 5,000+ 牛仔爱好者。",
+      "placeholder": "输入您的邮箱",
+      "button": "立即订阅",
+      "disclaimer": "随时可退订。我们尊重您的隐私。"
+    },
+    "logocloud": {
+      "title": "受到全球注重风格人士的信赖"
+    },
+    "stats": {
+      "title": "数字见证品质",
+      "subtitle": "OUILZN 为全球客户提供高端牛仔衬衫",
+      "description": "品质工艺与可持续时尚的完美结合",
+      "stat1": {
+        "value": "8,500+",
+        "label": "精心制作",
+        "description": "高品质作品"
+      },
+      "stat2": {
+        "value": "5,000+",
+        "label": "满意客户",
+        "description": "全球社区"
+      },
+      "stat3": {
+        "value": "4.9",
+        "label": "客户评分",
+        "description": "基于真实评价"
+      },
+      "stat4": {
+        "value": "100%",
+        "label": "品质保证",
+        "description": "每一件衬衫"
+      }
+    },
+    "integration": {
+      "title": "集成",
+      "subtitle": "与您最喜欢的工具集成",
+      "description": "无缝连接流行的平台和服务，以增强您的工作流程。",
+      "learnMore": "了解更多",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "这里是Google Gemini的描述，详细介绍Google Gemini的功能和优势。"
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "这里是Replit的描述，详细介绍Replit的功能和优势。"
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "这里是MagicUI的描述，详细介绍MagicUI的功能和优势。"
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "这里是VSCodium的描述，详细介绍VSCodium的功能和优势。"
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "这里是MediaWiki的描述，详细介绍MediaWiki的功能和优势。"
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "这里是Google PaLM的描述，详细介绍Google PaLM的功能和优势。"
+        }
+      }
+    },
+    "integration2": {
+      "title": "与您最喜欢的工具集成",
+      "description": "无缝连接流行的平台和服务，以增强您的工作流程。",
+      "primaryButton": "开始使用",
+      "secondaryButton": "查看演示"
+    },
+    "features2": {
+      "title": "功能2",
+      "subtitle": "您的 SaaS 产品功能",
+      "description": "请在这里介绍您的 SaaS 产品的特色功能的信息",
+      "feature-1": "特色功能特点一",
+      "feature-2": "特色功能特点二",
+      "feature-3": "特色功能特点三",
+      "feature-4": "特色功能特点四"
+    },
+    "features3": {
+      "title": "功能3",
+      "subtitle": "您的 SaaS 产品功能",
+      "description": "请在这里介绍您的 SaaS 产品的特色功能的信息",
+      "items": {
+        "item-1": {
+          "title": "产品特色功能一",
+          "description": "请在这里详细描述您的产品特色功能一，尽可能详细，使其更吸引用户"
+        },
+        "item-2": {
+          "title": "产品特色功能二",
+          "description": "请在这里详细描述您的产品特色功能二，尽可能详细，使其更吸引用户"
+        },
+        "item-3": {
+          "title": "产品特色功能三",
+          "description": "请在这里详细描述您的产品特色功能三，尽可能详细，使其更吸引用户"
+        },
+        "item-4": {
+          "title": "产品特色功能四",
+          "description": "请在这里详细描述您的产品特色功能四，尽可能详细，使其更吸引用户"
+        },
+        "item-5": {
+          "title": "产品特色功能五",
+          "description": "请在这里详细描述您的产品特色功能五，尽可能详细，使其更吸引用户"
+        },
+        "item-6": {
+          "title": "产品特色功能六",
+          "description": "请在这里详细描述您的产品特色功能六，尽可能详细，使其更吸引用户"
+        }
+      }
+    },
+    "pricing": {
+      "title": "价格",
+      "subtitle": "价格",
+      "description": "选择最适合您的付费计划"
+    },
+    "faqs": {
+      "title": "常见问题",
+      "subtitle": "解答您关于 OUILZN 牛仔衬衫的疑问",
+      "items": {
+        "item-1": {
+          "question": "OUILZN 牛仔衬衫有什么特别之处？",
+          "answer": "我们使用日本冈山顶级丹宁面料，采用传统梭织机织造，结合意大利裁剪工艺。每件衬衫都采用可持续工艺制作，旨在陪伴您一生。"
+        },
+        "item-2": {
+          "question": "如何找到合适的尺码？",
+          "answer": "查看我们详细的尺码指南，包含胸围、肩宽和袖长的测量方法。如果尺码不合适，我们提供30天内免费换货服务。"
+        },
+        "item-3": {
+          "question": "你们的衬衫是可持续的吗？",
+          "answer": "是的！我们使用环保染料、可持续生产方式，并提供终身养护服务。持久品质减少浪费，践行我们对地球的承诺。"
+        },
+        "item-4": {
+          "question": "如何保养牛仔衬衫？",
+          "answer": "翻面冷水洗涤，尽量自然晾干。丹宁面料会随时间形成独特的质感。我们还提供终身养护支持，包括修补和维护。"
+        },
+        "item-5": {
+          "question": "退货政策是什么？",
+          "answer": "30天内未穿着、带标签的商品可全额退款。我们提供预付费退货标签。如需帮助，请联系 support@ouilzn.shop。"
+        },
+        "cta": {
+          "question": "还有其他问题？",
+          "contact": "联系我们",
+          "shop": "立即选购"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "客户真实评价",
+      "subtitle": "来自全球 5,000+ 满意客户的真实反馈",
+      "item-1": {
+        "name": "陈明",
+        "role": "创意总监",
+        "content": "OUILZN 衬衫的品质非常出色。日本丹宁面料质感独特，越穿越有味道。物超所值。"
+      },
+      "item-2": {
+        "name": "Sarah Williams",
+        "role": "建筑师",
+        "content": "我很欣赏对细节的关注和可持续理念。意大利工艺在每一针每一线中都清晰可见。这是我工作和周末的首选衬衫。"
+      },
+      "item-3": {
+        "name": "David Martinez",
+        "role": "创业者",
+        "content": "终于找到一件既适合开会又适合喝咖啡的牛仔衬衫。版型完美，品质卓越。"
+      },
+      "item-4": {
+        "name": "王艾玛",
+        "role": "时尚博主",
+        "content": "OUILZN 将永恒风格与现代可持续理念完美结合。冈山丹宁是我穿过最好的面料。衣橱必备。"
+      },
+      "item-5": {
+        "name": "James Park",
+        "role": "摄影师",
+        "content": "作为注重品质和耐用性的人，OUILZN 完全符合我的要求。这件衬衫已成为我的日常制服。舒适、时尚、经久耐用。"
+      },
+      "item-6": {
+        "name": "Sophie Laurent",
+        "role": "室内设计师",
+        "content": "工艺无可挑剔。你能从面料中感受到品质，从细节中看到用心。OUILZN 重新定义了牛仔衬衫的标准。"
+      },
+      "item-7": {
+        "name": "Alex Rodriguez",
+        "role": "科技创始人",
+        "content": "我寻找完美牛仔衬衫多年。OUILZN 超出了我的期望。可持续的做法更是我真正欣赏的加分项。"
+      },
+      "item-8": {
+        "name": "李莎",
+        "role": "市场总监",
+        "content": "OUILZN 的衬衫让我在工作中保持专业形象。品质卓越，细节完美，是我衣橱里的必备单品。"
+      }
+    },
+    "stats": {
+      "title": "数字见证品质",
+      "subtitle": "OUILZN 的全球影响力",
+      "description": "用数据诠释品质与工艺的完美结合",
+      "items": {
+        "item-1": {
+          "title": "满意客户"
+        },
+        "item-2": {
+          "title": "精心制作"
+        },
+        "item-3": {
+          "title": "品质保证"
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "探索 OUILZN 牛仔衬衫",
+      "description": "加入 5,000+ 注重品质的客户，体验日本面料与意大利工艺的完美融合",
+      "primaryButton": "选购系列",
+      "secondaryButton": "了解更多"
+    }
+  },
+  "TutorialsPage": {
+    "title": "穿搭指南",
+    "description": "通过我们的分步指南学习如何搭配和保养您的牛仔服饰",
+    "content": "即将推出"
+  },
+  "GalleryPage": {
+    "title": "客户展示",
+    "description": "探索我们客户的真实穿搭照片和评价",
+    "content": "即将推出"
+  },
+  "ToolsPage": {
+    "title": "尺码工具",
+    "description": "使用我们的尺码计算器和款式指南找到完美尺码",
+    "content": "即将推出"
+  },
+  "CustomOrderPage": {
+    "title": "定制服务",
+    "description": "获取根据您的需求定制的个性化牛仔服饰解决方案",
+    "content": "即将推出"
+  }
+}

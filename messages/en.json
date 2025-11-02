@@ -1,0 +1,947 @@
+{
+  "Metadata": {
+    "name": "OUILZN",
+    "title": "OUILZN - Premium Denim Shirts | Japanese Fabric Meets Italian Craftsmanship",
+    "description": "OUILZN crafts premium denim shirts combining Japanese Okayama denim with traditional Italian techniques. Sustainable, timeless, and made for the modern individual. Discover authentic denim excellence."
+  },
+  "Common": {
+    "login": "Log in",
+    "logout": "Log out",
+    "signUp": "Sign up",
+    "language": "Switch language",
+    "mode": {
+      "label": "Toggle mode",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    },
+    "theme": {
+      "label": "Toggle theme",
+      "default": "Default",
+      "blue": "Blue",
+      "green": "Green",
+      "amber": "Amber",
+      "neutral": "Neutral"
+    },
+    "copy": "Copy",
+    "saving": "Saving...",
+    "save": "Save",
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "logoutFailed": "Failed to log out"
+  },
+  "PricingPage": {
+    "title": "Pricing",
+    "description": "Choose the plan that works best for you",
+    "subtitle": "Choose the plan that works best for you",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "PricingCard": {
+      "freePrice": "$0",
+      "perMonth": "/month",
+      "perYear": "/year",
+      "popular": "Popular",
+      "currentPlan": "Current Plan",
+      "yourCurrentPlan": "Your Current Plan",
+      "getStartedForFree": "Get Started For Free",
+      "getLifetimeAccess": "Get Lifetime Access",
+      "getStarted": "Get Started",
+      "notAvailable": "Not Available",
+      "daysTrial": "{days}-day free trial"
+    },
+    "CheckoutButton": {
+      "loading": "Loading...",
+      "checkoutFailed": "Failed to open checkout page"
+    }
+  },
+  "PricePlans": {
+    "free": {
+      "name": "Browse & Explore",
+      "description": "Perfect for discovering your denim style",
+      "features": {
+        "feature-1": "Browse full product catalog",
+        "feature-2": "Access to size guide",
+        "feature-3": "Standard shipping available",
+        "feature-4": "30-day return policy",
+        "feature-5": "Community support"
+      },
+      "limits": {
+        "limit-1": "No member discounts",
+        "limit-2": "No express shipping",
+        "limit-3": "No custom alterations"
+      }
+    },
+    "pro": {
+      "name": "Denim Enthusiast",
+      "description": "For those who love premium denim",
+      "features": {
+        "feature-1": "20% off all purchases year-round",
+        "feature-2": "Access to full collection (Classic, Slim, Relaxed fits)",
+        "feature-3": "Free express shipping on all orders",
+        "feature-4": "Early access to new releases",
+        "feature-5": "Priority customer support",
+        "feature-6": "Exclusive member events",
+        "feature-7": "Bulk order discounts"
+      },
+      "limits": {
+        "limit-1": "No custom alterations",
+        "limit-2": "No lifetime discount"
+      }
+    },
+    "lifetime": {
+      "name": "Lifetime Member",
+      "description": "One payment, lifetime benefits",
+      "features": {
+        "feature-1": "All Enthusiast features included",
+        "feature-2": "Lifetime 30% discount on all purchases",
+        "feature-3": "Bulk orders up to 50% off",
+        "feature-4": "Custom alterations service",
+        "feature-5": "Dedicated account manager",
+        "feature-6": "Free hemming & repairs for life",
+        "feature-7": "VIP customer service",
+        "feature-8": "Lifetime access to all future benefits"
+      }
+    }
+  },
+  "NotFoundPage": {
+    "title": "404",
+    "message": "Sorry, the page you are looking for does not exist.",
+    "backToHome": "Back to home"
+  },
+  "ErrorPage": {
+    "title": "Oops! Something went wrong!",
+    "tryAgain": "Try again",
+    "backToHome": "Back to home"
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "description": "Discover OUILZN's story: Where Japanese precision meets Italian artistry. We craft premium denim shirts that blend sustainability with timeless style.",
+    "authorName": "OUILZN",
+    "authorBio": "Premium Denim Shirt Craftsmen",
+    "introduction": "✨ Welcome to OUILZN. We believe exceptional denim is more than fabric—it's a commitment to quality and sustainability. Born from a passion for authentic craftsmanship, we source the finest Okayama denim from Japan and combine it with traditional Italian tailoring techniques. Each shirt is meticulously crafted to last a lifetime. From casual weekends to refined occasions, OUILZN shirts are designed for the modern individual who values both style and substance.",
+    "talkWithMe": "Get in Touch",
+    "followMe": "Follow Our Journey"
+  },
+  "ChangelogPage": {
+    "title": "Changelog",
+    "description": "Stay up to date with the latest changes in our product",
+    "subtitle": "Stay up to date with the latest changes in our product"
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Get in touch with our team for any questions about OUILZN denim shirts or custom orders",
+    "subtitle": "We're here to help you find your perfect denim shirt",
+    "form": {
+      "title": "Contact Us",
+      "description": "Have questions about our denim shirts or interested in custom orders? We'd love to hear from you",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Submit",
+      "submitting": "Submitting...",
+      "success": "Message sent successfully",
+      "fail": "Failed to send message",
+      "nameMinLength": "Name must be at least 3 characters",
+      "nameMaxLength": "Name must not exceed 30 characters",
+      "emailValidation": "Please enter a valid email address",
+      "messageMinLength": "Message must be at least 10 characters",
+      "messageMaxLength": "Message must not exceed 500 characters"
+    }
+  },
+  "WaitlistPage": {
+    "title": "Waitlist",
+    "description": "Join our waitlist for the launch of our product",
+    "subtitle": "Join our waitlist for the launch of our product",
+    "form": {
+      "title": "Join Our Waitlist",
+      "description": "We will notify you when we launch our product",
+      "email": "Email",
+      "subscribe": "Subscribe",
+      "subscribing": "Subscribing...",
+      "success": "Subscribed successfully",
+      "fail": "Failed to subscribe",
+      "emailValidation": "Please enter a valid email address"
+    }
+  },
+  "Newsletter": {
+    "title": "Newsletter",
+    "subtitle": "Join the community",
+    "description": "Subscribe to our newsletter for the latest news and updates",
+    "form": {
+      "email": "Email",
+      "subscribe": "Subscribe",
+      "subscribing": "Subscribing...",
+      "success": "Subscribed successfully",
+      "fail": "Failed to subscribe",
+      "emailValidation": "Please enter a valid email address"
+    }
+  },
+  "AuthPage": {
+    "login": {
+      "title": "Login",
+      "welcomeBack": "Welcome back",
+      "email": "Email",
+      "password": "Password",
+      "signIn": "Sign In",
+      "signUpHint": "Don't have an account? Sign up",
+      "forgotPassword": "Forgot Password?",
+      "signInWithGoogle": "Sign In with Google",
+      "signInWithGitHub": "Sign In with GitHub",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "or": "Or continue with",
+      "emailRequired": "Please enter your email",
+      "passwordRequired": "Please enter your password"
+    },
+    "register": {
+      "title": "Register",
+      "createAccount": "Create an account",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "signUp": "Sign Up",
+      "signInHint": "Already have an account? Sign in",
+      "checkEmail": "Please check your email inbox",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "nameRequired": "Please enter your name",
+      "emailRequired": "Please enter your email",
+      "passwordRequired": "Please enter your password",
+      "captchaInvalid": "Captcha verification failed",
+      "captchaError": "Captcha verification error"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "email": "Email",
+      "send": "Send reset link",
+      "backToLogin": "Back to login",
+      "checkEmail": "Please check your email inbox",
+      "emailRequired": "Please enter your email"
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "password": "Password",
+      "reset": "Reset password",
+      "backToLogin": "Back to login",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password",
+      "minLength": "Password must be at least 8 characters"
+    },
+    "error": {
+      "title": "Oops! Something went wrong!",
+      "tryAgain": "Please try again.",
+      "backToLogin": "Back to login",
+      "checkEmail": "Please check your email inbox"
+    },
+    "common": {
+      "termsOfService": "Terms of Service",
+      "privacyPolicy": "Privacy Policy",
+      "byClickingContinue": "By clicking continue, you agree to our ",
+      "and": " and "
+    }
+  },
+  "BlogPage": {
+    "title": "Blog",
+    "description": "Latest news and updates from our team",
+    "subtitle": "Latest news and updates from our team",
+    "author": "Author",
+    "categories": "Categories",
+    "tableOfContents": "Table of Contents",
+    "readTime": "{minutes} min read",
+    "all": "All",
+    "noPostsFound": "No posts found",
+    "allPosts": "All Posts",
+    "morePosts": "More Posts"
+  },
+  "DocsPage": {
+    "toc": "Table of Contents",
+    "search": "Search docs",
+    "lastUpdate": "Last updated on",
+    "searchNoResult": "No results",
+    "previousPage": "Previous",
+    "nextPage": "Next",
+    "chooseLanguage": "Select language",
+    "title": "OUILZI Documentation",
+    "homepage": "Homepage",
+    "blog": "Blog"
+  },
+  "Marketing": {
+    "navbar": {
+      "about": {
+        "title": "About"
+      },
+      "faq": {
+        "title": "FAQ"
+      },
+      "contact": {
+        "title": "Contact"
+      },
+      "pages": {
+        "title": "Pages",
+        "items": {
+          "about": {
+            "title": "About",
+            "description": "Learn more about our company, mission, and values"
+          },
+          "contact": {
+            "title": "Contact",
+            "description": "Get in touch with our team for support or inquiries"
+          },
+          "waitlist": {
+            "title": "Waitlist",
+            "description": "Join our waitlist for latest news and updates"
+          },
+          "changelog": {
+            "title": "Changelog",
+            "description": "See the latest updates to our products"
+          },
+          "roadmap": {
+            "title": "Roadmap",
+            "description": "Explore our future plans and upcoming features"
+          },
+          "cookiePolicy": {
+            "title": "Cookie Policy",
+            "description": "How we use the cookies on our website"
+          },
+          "privacyPolicy": {
+            "title": "Privacy Policy",
+            "description": "How we protect and handle your data"
+          },
+          "termsOfService": {
+            "title": "Terms of Service",
+            "description": "The legal agreement between you and our company"
+          }
+        }
+      },
+      "blocks": {
+        "title": "Blocks",
+        "items": {
+          "magicui": {
+            "title": "MagicUI Blocks"
+          },
+          "hero-section": {
+            "title": "Hero Blocks"
+          },
+          "logo-cloud": {
+            "title": "Logo Cloud Blocks"
+          },
+          "integrations": {
+            "title": "Integrations Blocks"
+          },
+          "features": {
+            "title": "Features Blocks"
+          },
+          "content": {
+            "title": "Content Blocks"
+          },
+          "stats": {
+            "title": "Stats Blocks"
+          },
+          "team": {
+            "title": "Team Blocks"
+          },
+          "testimonials": {
+            "title": "Testimonials Blocks"
+          },
+          "callToAction": {
+            "title": "Call to Action Blocks"
+          },
+          "footer": {
+            "title": "Footer Blocks"
+          },
+          "pricing": {
+            "title": "Pricing Blocks"
+          },
+          "comparator": {
+            "title": "Comparator Blocks"
+          },
+          "faq": {
+            "title": "FAQ Blocks"
+          },
+          "login": {
+            "title": "Login Blocks"
+          },
+          "signup": {
+            "title": "Signup Blocks"
+          },
+          "forgot-password": {
+            "title": "Forgot Password Blocks"
+          },
+          "contact": {
+            "title": "Contact Blocks"
+          }
+        }
+      }
+    },
+    "footer": {
+      "tagline": "OUILZN - Premium denim shirts crafted with Japanese fabric and Italian craftsmanship",
+      "product": {
+        "title": "Product",
+        "items": {
+          "features": "Features",
+          "pricing": "Pricing",
+          "faq": "FAQ"
+        }
+      },
+      "resources": {
+        "title": "Resources",
+        "items": {
+          "blog": "Blog",
+          "docs": "Documentation",
+          "changelog": "Changelog",
+          "roadmap": "Roadmap"
+        }
+      },
+      "company": {
+        "title": "Company",
+        "items": {
+          "about": "About",
+          "contact": "Contact",
+          "waitlist": "Waitlist"
+        }
+      },
+      "legal": {
+        "title": "Legal",
+        "items": {
+          "cookiePolicy": "Cookie Policy",
+          "privacyPolicy": "Privacy Policy",
+          "termsOfService": "Terms of Service"
+        }
+      }
+    },
+    "avatar": {
+      "dashboard": "Dashboard",
+      "billing": "Billing",
+      "settings": "Settings"
+    }
+  },
+  "Dashboard": {
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "admin": {
+      "title": "Admin",
+      "users": {
+        "title": "Users",
+        "fakeData": "Note: Faked data for demonstration, some features are disabled",
+        "error": "Failed to get users",
+        "search": "Search users...",
+        "columns": {
+          "columns": "Columns",
+          "name": "Name",
+          "email": "Email",
+          "role": "Role",
+          "createdAt": "Created At",
+          "customerId": "Customer ID",
+          "status": "Status",
+          "banReason": "Ban Reason",
+          "banExpires": "Ban Expires"
+        },
+        "noResults": "No results",
+        "firstPage": "First Page",
+        "lastPage": "Last Page",
+        "nextPage": "Next Page",
+        "previousPage": "Previous Page",
+        "rowsPerPage": "Rows per page",
+        "page": "Page",
+        "loading": "Loading...",
+        "admin": "Admin",
+        "user": "User",
+        "email": {
+          "verified": "Email Verified",
+          "unverified": "Email Unverified"
+        },
+        "emailCopied": "Email copied to clipboard",
+        "banned": "Banned",
+        "active": "Active",
+        "joined": "Joined",
+        "updated": "Updated",
+        "ban": {
+          "reason": "Ban Reason",
+          "reasonPlaceholder": "Enter the reason for banning this user",
+          "defaultReason": "Spamming",
+          "never": "Never",
+          "expires": "Ban Expires",
+          "selectDate": "Select Date",
+          "button": "Ban User",
+          "success": "User has been banned",
+          "error": "Failed to ban user"
+        },
+        "unban": {
+          "button": "Unban User",
+          "success": "User has been unbanned",
+          "error": "Failed to unban user"
+        },
+        "close": "Close"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "profile": {
+        "title": "Profile",
+        "description": "Manage your account information",
+        "avatar": {
+          "title": "Avatar",
+          "description": "Click upload button to upload a custom one",
+          "recommendation": "An avatar is optional but strongly recommended",
+          "uploading": "Uploading...",
+          "uploadAvatar": "Upload Avatar",
+          "success": "Avatar updated successfully",
+          "fail": "Failed to update avatar"
+        },
+        "name": {
+          "title": "Name",
+          "description": "Please enter your display name",
+          "placeholder": "Enter your name",
+          "minLength": "Please use 3 characters at minimum",
+          "maxLength": "Please use 30 characters at maximum",
+          "hint": "Please use 3-30 characters for your name",
+          "success": "Name updated successfully",
+          "fail": "Failed to update name",
+          "saving": "Saving...",
+          "save": "Save"
+        }
+      },
+      "billing": {
+        "title": "Billing",
+        "description": "Manage your subscription and billing details",
+        "status": {
+          "active": "Active",
+          "trial": "Trial",
+          "free": "Free",
+          "lifetime": "Lifetime"
+        },
+        "interval": {
+          "month": "month",
+          "year": "year",
+          "oneTime": "one-time"
+        },
+        "currentPlan": {
+          "title": "Current Plan",
+          "description": "Your current plan details",
+          "noPlan": "You have no active plan"
+        },
+        "CustomerPortalButton": {
+          "loading": "Loading...",
+          "createCustomerPortalFailed": "Failed to open Stripe customer portal"
+        },
+        "price": "Price:",
+        "nextBillingDate": "Next billing date:",
+        "trialEnds": "Trial ends:",
+        "freePlanMessage": "You are currently on the free plan with limited features",
+        "lifetimeMessage": "You have lifetime access to all premium features",
+        "manageSubscription": "Manage Subscription and Billing",
+        "manageBilling": "Manage Billing",
+        "upgradePlan": "Upgrade Plan",
+        "retry": "Retry",
+        "errorMessage": "Failed to get data"
+      },
+      "notification": {
+        "title": "Notification",
+        "description": "Manage your notification preferences",
+        "newsletter": {
+          "title": "Newsletter Subscription",
+          "description": "Manage your newsletter subscription preferences",
+          "label": "Subscribe to newsletter",
+          "hint": "You can change your subscription preferences at any time",
+          "emailRequired": "Email is required to subscribe to the newsletter",
+          "subscribeSuccess": "Successfully subscribed to the newsletter",
+          "subscribeFail": "Failed to subscribe to the newsletter",
+          "unsubscribeSuccess": "Successfully unsubscribed from the newsletter",
+          "unsubscribeFail": "Failed to unsubscribe from the newsletter",
+          "error": "An error occurred while updating your subscription"
+        }
+      },
+      "security": {
+        "title": "Security",
+        "description": "Manage your security settings",
+        "updatePassword": {
+          "title": "Change Password",
+          "description": "Enter your current password and a new password",
+          "currentPassword": "Current Password",
+          "currentRequired": "Current password is required",
+          "newPassword": "New Password",
+          "newMinLength": "Password must be at least 8 characters",
+          "hint": "Please use at least 8 characters for password",
+          "showPassword": "Show password",
+          "hidePassword": "Hide password",
+          "success": "Password updated successfully",
+          "fail": "Failed to update password",
+          "saving": "Saving...",
+          "save": "Save"
+        },
+        "resetPassword": {
+          "title": "Reset Password",
+          "description": "Reset password to enable email login",
+          "info": "Resetting your password will allow you to sign in using your email and password in addition to your social login methods. You will receive an email with instructions to reset your password",
+          "button": "Reset Password"
+        },
+        "deleteAccount": {
+          "title": "Delete Account",
+          "description": "Permanently remove your account and all of its contents",
+          "warning": "This action is not reversible, so please continue with caution",
+          "button": "Delete Account",
+          "confirmTitle": "Delete Account",
+          "confirmDescription": "Are you sure you want to delete your account? This action cannot be undone.",
+          "confirm": "Delete",
+          "cancel": "Cancel",
+          "deleting": "Deleting...",
+          "success": "Account deleted successfully",
+          "fail": "Failed to delete account"
+        }
+      }
+    },
+    "upgrade": {
+      "title": "Upgrade",
+      "description": "Upgrade to Pro to access all features",
+      "button": "Upgrade"
+    }
+  },
+  "Mail": {
+    "common": {
+      "team": "{name} Team",
+      "copyright": "©️ {year} All Rights Reserved."
+    },
+    "verifyEmail": {
+      "title": "Hi, {name}.",
+      "body": "Please click the link below to verify your email address.",
+      "confirmEmail": "Confirm email",
+      "subject": "Verify your email"
+    },
+    "forgotPassword": {
+      "title": "Hi, {name}.",
+      "body": "Please click the link below to reset your password.",
+      "resetPassword": "Reset password",
+      "subject": "Reset your password"
+    },
+    "subscribeNewsletter": {
+      "body": "Thank you for subscribing to the newsletter. We will keep you updated with the latest news and updates.",
+      "subject": "Thanks for subscribing"
+    },
+    "contactMessage": {
+      "name": "Name: {name}",
+      "email": "Email: {email}",
+      "message": "Message: {message}",
+      "subject": "Contact Message from Website"
+    }
+  },
+  "HomePage": {
+    "title": "OUILZN - Premium Denim Shirts | Japanese Fabric Meets Italian Craftsmanship",
+    "description": "OUILZN crafts premium denim shirts combining Japanese Okayama denim with traditional Italian techniques. Sustainable, timeless, and made for the modern individual. Discover authentic denim excellence.",
+    "hero": {
+      "title": "Timeless Denim Shirts, Crafted to Perfection",
+      "description": "OUILZN combines the finest Japanese Okayama denim with traditional Italian tailoring. Each shirt is meticulously crafted using sustainable practices, designed to last a lifetime. More than just a shirt—it's a commitment to quality and style.",
+      "introduction": "Discover OUILZN",
+      "primary": "Shop Collection",
+      "secondary": "Learn More"
+    },
+    "trustIndicators": {
+      "easyToLearn": "Premium Okayama Denim",
+      "premiumTools": "Italian Craftsmanship",
+      "activeComm": "100% Sustainable",
+      "stepByStep": "Lifetime Quality"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "description": "From selection to delivery, we make finding your perfect denim shirt simple and enjoyable.",
+      "step1": {
+        "title": "Choose Your Style",
+        "description": "Browse our curated collection of premium denim shirts. Each design is crafted with attention to detail and timeless appeal."
+      },
+      "step2": {
+        "title": "Expert Consultation",
+        "description": "Need help? Our style advisors are here to guide you in finding the perfect fit and style for your needs."
+      },
+      "step3": {
+        "title": "Enjoy for Life",
+        "description": "Receive your shirt with premium packaging. Enjoy lifetime care support and sustainable quality that lasts."
+      }
+    },
+    "features": {
+      "title": "Why Choose OUILZN",
+      "description": "We combine the world's finest materials with time-honored techniques to create denim shirts that stand the test of time.",
+      "feature1": {
+        "title": "Premium Japanese Denim",
+        "description": "Sourced from Okayama, Japan's denim capital. Our fabric is woven on traditional shuttle looms, creating a unique texture and exceptional durability that improves with age."
+      },
+      "feature2": {
+        "title": "Italian Tailoring Excellence",
+        "description": "Each shirt is crafted using traditional Italian tailoring methods passed down through generations. Precision cutting, hand-finished details, and meticulous quality control ensure perfection."
+      },
+      "feature3": {
+        "title": "Sustainable & Ethical",
+        "description": "We use eco-friendly dyes, sustainable production methods, and offer lifetime care services. Quality that lasts reduces waste and honors our commitment to the planet."
+      }
+    },
+    "showcase": {
+      "title": "Featured Collection",
+      "description": "Explore OUILZN's carefully crafted denim collection. Each piece combines premium Japanese fabrics with traditional Italian craftsmanship, showcasing the perfect blend of classic and contemporary style."
+    },
+    "useCases": {
+      "title": "Versatile Style for Every Occasion",
+      "description": "From the office to weekend adventures, OUILZN denim shirts adapt to your lifestyle with effortless style.",
+      "marketing": {
+        "title": "Professional",
+        "description": "Perfect for the modern workplace. Our refined denim shirts pair beautifully with blazers and chinos, offering a sophisticated alternative to traditional dress shirts."
+      },
+      "education": {
+        "title": "Casual",
+        "description": "Weekend ready. Layer over a tee or wear solo for relaxed outings. The premium denim elevates any casual look with authentic style."
+      },
+      "content": {
+        "title": "Smart Casual",
+        "description": "Ideal for dinners, events, and social gatherings. Strike the perfect balance between polished and relaxed with timeless denim craftsmanship."
+      }
+    },
+    "newsletter": {
+      "title": "Join the OUILZN Community",
+      "description": "Get exclusive access to new collections, styling tips, and special offers. Join 5,000+ denim enthusiasts.",
+      "placeholder": "Enter your email",
+      "button": "Subscribe",
+      "disclaimer": "Unsubscribe anytime. We respect your privacy."
+    },
+    "logocloud": {
+      "title": "Trusted by style-conscious individuals worldwide"
+    },
+    "stats": {
+      "title": "Trusted Worldwide",
+      "subtitle": "OUILZN delivers premium denim shirts to customers around the globe",
+      "description": "Quality craftsmanship meets sustainable fashion",
+      "stat1": {
+        "value": "8,500+",
+        "label": "Shirts Crafted",
+        "description": "Premium quality pieces"
+      },
+      "stat2": {
+        "value": "5,000+",
+        "label": "Happy Customers",
+        "description": "Global community"
+      },
+      "stat3": {
+        "value": "4.9",
+        "label": "Customer Rating",
+        "description": "Based on reviews"
+      },
+      "stat4": {
+        "value": "100%",
+        "label": "Quality Guarantee",
+        "description": "Every shirt"
+      }
+    },
+    "videoGallery": {
+      "searchPlaceholder": "Search denim apparel...",
+      "categories": {
+        "all": "All",
+        "sci-fi": "Denim Shirt",
+        "nature": "Denim Jacket",
+        "art": "Denim Coat",
+        "business": "Denim Vest",
+        "education": "Denim Trench",
+        "music": "Denim Workwear"
+      },
+      "noResults": {
+        "title": "No apparel found",
+        "description": "Try adjusting your search criteria or selecting other apparel types"
+      },
+      "loadMore": "Load more apparel"
+    },
+    "integration": {
+      "title": "Integrations",
+      "subtitle": "Integrate with your favorite tools",
+      "description": "Connect seamlessly with popular platforms and services to enhance your workflow.",
+      "learnMore": "Learn More",
+      "items": {
+        "item-1": {
+          "title": "Google Gemini",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-2": {
+          "title": "Replit",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-3": {
+          "title": "MagicUI",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-4": {
+          "title": "VSCodium",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-5": {
+          "title": "MediaWiki",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        },
+        "item-6": {
+          "title": "Google PaLM",
+          "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem."
+        }
+      }
+    },
+    "integration2": {
+      "title": "Integrate with your favorite tools",
+      "description": "Connect seamlessly with popular platforms and services to enhance your workflow.",
+      "primaryButton": "Get Started",
+      "secondaryButton": "See Demo"
+    },
+    "features2": {
+      "title": "Features2",
+      "subtitle": "The features of your product",
+      "description": "Write the description of your product here",
+      "feature-1": "Product Feature One",
+      "feature-2": "Product Feature Two",
+      "feature-3": "Product Feature Three",
+      "feature-4": "Product Feature Four"
+    },
+    "features3": {
+      "title": "Features3",
+      "subtitle": "The features of your product",
+      "description": "Write the description of your product here",
+      "items": {
+        "item-1": {
+          "title": "Product Feature One",
+          "description": "Please write the detailed description of feature one here"
+        },
+        "item-2": {
+          "title": "Product Feature Two",
+          "description": "Please write the detailed description of feature two here"
+        },
+        "item-3": {
+          "title": "Product Feature Three",
+          "description": "Please write the detailed description of feature three here"
+        },
+        "item-4": {
+          "title": "Product Feature Four",
+          "description": "Please write the detailed description of feature four here"
+        },
+        "item-5": {
+          "title": "Product Feature Five",
+          "description": "Please write the detailed description of feature five here"
+        },
+        "item-6": {
+          "title": "Product Feature Six",
+          "description": "Please write the detailed description of feature six here"
+        }
+      }
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Pricing",
+      "description": "Choose the plan that works best for you"
+    },
+    "faqs": {
+      "title": "FAQ",
+      "subtitle": "Frequently Asked Questions",
+      "item-1": {
+        "question": "What makes OUILZN denim shirts special?",
+        "answer": "We use premium Japanese Okayama denim woven on traditional shuttle looms, combined with Italian tailoring techniques. Each shirt is crafted with sustainable practices and designed to last a lifetime."
+      },
+      "item-2": {
+        "question": "How do I find the right size?",
+        "answer": "Check our detailed size guide with measurements for chest, shoulders, and sleeve length. If the fit isn't perfect, we offer free exchanges within 30 days."
+      },
+      "item-3": {
+        "question": "Are your shirts sustainable?",
+        "answer": "Yes! We use eco-friendly dyes, sustainable production methods, and offer lifetime care services. Quality that lasts reduces waste and honors our commitment to the planet."
+      },
+      "item-4": {
+        "question": "How should I care for my denim shirt?",
+        "answer": "Wash inside out in cold water, air dry when possible. The denim will develop a unique patina over time. We also offer lifetime care support for repairs and maintenance."
+      },
+      "item-5": {
+        "question": "What is your return policy?",
+        "answer": "Unworn items with tags can be returned within 30 days for a full refund. We provide prepaid return labels. Contact us at support@ouilzn.shop for assistance."
+      },
+      "cta": {
+        "question": "Still have questions?",
+        "contact": "Contact Us",
+        "shop": "Shop Now"
+      }
+    },
+    "testimonials": {
+      "title": "Real Customer Reviews",
+      "subtitle": "Authentic feedback from 5,000+ satisfied customers worldwide",
+      "item-1": {
+        "name": "Michael Chen",
+        "role": "Creative Director",
+        "content": "The quality of OUILZN shirts is exceptional. The Japanese denim has a unique texture that gets better with every wear. Worth every penny."
+      },
+      "item-2": {
+        "name": "Sarah Williams",
+        "role": "Architect",
+        "content": "I appreciate the attention to detail and sustainable practices. The Italian craftsmanship is evident in every stitch. This is my go-to shirt for both work and weekends."
+      },
+      "item-3": {
+        "name": "David Martinez",
+        "role": "Entrepreneur",
+        "content": "Finally, a denim shirt that looks professional enough for meetings yet casual enough for coffee. The fit is perfect and the quality is outstanding."
+      },
+      "item-4": {
+        "name": "Emma Thompson",
+        "role": "Fashion Blogger",
+        "content": "OUILZN combines timeless style with modern sustainability. The Okayama denim is the finest I've ever worn. A must-have for any wardrobe."
+      },
+      "item-5": {
+        "name": "James Park",
+        "role": "Photographer",
+        "content": "As someone who values quality and durability, OUILZN delivers. The shirt has become my daily uniform. Comfortable, stylish, and built to last."
+      },
+      "item-6": {
+        "name": "Sophie Laurent",
+        "role": "Interior Designer",
+        "content": "The craftsmanship is impeccable. You can feel the quality in the fabric and see it in the details. OUILZN has redefined what a denim shirt should be."
+      },
+      "item-7": {
+        "name": "Alex Rodriguez",
+        "role": "Tech Founder",
+        "content": "I've been searching for the perfect denim shirt for years. OUILZN exceeded my expectations. The sustainable approach is a bonus I truly appreciate."
+      },
+      "item-8": {
+        "name": "Lisa Anderson",
+        "role": "Marketing Director",
+        "content": "OUILZN shirts keep me looking professional at work. Exceptional quality, perfect details, and a wardrobe essential."
+      }
+    },
+    "stats": {
+      "title": "Stats",
+      "subtitle": "OUILZI in numbers",
+      "description": "OUILZI provides quality denim apparel to customers worldwide",
+      "items": {
+        "item-1": {
+          "title": "Happy Customers"
+        },
+        "item-2": {
+          "title": "Apparel Sold"
+        },
+        "item-3": {
+          "title": "Apparel Styles"
+        }
+      }
+    },
+    "calltoaction": {
+      "title": "Shop Your Classic Denim Apparel Today",
+      "description": "Join thousands of satisfied customers enjoying premium denim apparel and exceptional service",
+      "primaryButton": "Shop Now",
+      "secondaryButton": "View Styles"
+    }
+  },
+  "TutorialsPage": {
+    "title": "Style Guide",
+    "description": "Learn how to style and care for your jeans with our step-by-step guides",
+    "content": "Coming soon"
+  },
+  "GalleryPage": {
+    "title": "Customer Gallery",
+    "description": "Explore real customer photos and reviews",
+    "content": "Coming soon"
+  },
+  "ToolsPage": {
+    "title": "Size Tools",
+    "description": "Use our size calculator and fit guide to find your perfect size",
+    "content": "Coming soon"
+  },
+  "CustomOrderPage": {
+    "title": "Custom Service",
+    "description": "Get personalized denim solutions tailored to your specific needs",
+    "content": "Coming soon"
+  }
+}
